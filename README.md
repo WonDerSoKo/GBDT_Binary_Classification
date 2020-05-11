@@ -1,4 +1,4 @@
-# GBDT_Biominal_Classification
+# GBDT_Binary_Classification
 GBDT split by friedman_mse.
 
 it can be used for biominal classification.
